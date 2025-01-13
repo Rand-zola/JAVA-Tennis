@@ -56,7 +56,7 @@ public class JeuTennis extends JPanel implements Runnable {
                 if (e.getKeyCode() == KeyEvent.VK_DOWN) {
                     down1 = false;
                 }
-                if (e.getKeyCode() == KeyEvent.VK_Z) {
+                if (e.getKeyCode() == KeyEvent.VK_W) {
                     up2 = false;
                 }
                 if (e.getKeyCode() == KeyEvent.VK_S) {
